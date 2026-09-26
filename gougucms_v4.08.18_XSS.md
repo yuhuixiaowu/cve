@@ -66,7 +66,8 @@ System Management -> User Level
 
 <br />
 
-![0.49](file:///C:/Users/15303/AppData/Roaming/ProcessOn/data/mind/image/uYBXK2QH7F.png)
+<img width="2560" height="1528" alt="image1" src="https://github.com/user-attachments/assets/31bc2e19-e422-4d04-aba2-1cdaf1bcb621" />
+
 
 Add or edit a user level and set the level name to:
 
@@ -76,7 +77,8 @@ Add or edit a user level and set the level name to:
 
 <br />
 
-![0.49](file:///C:/Users/15303/AppData/Roaming/ProcessOn/data/mind/image/Ffynh6t8X.png)
+<img width="2549" height="1391" alt="image2" src="https://github.com/user-attachments/assets/b0a7d84b-8dab-4a70-a29e-8e70ef457fe4" />
+
 
 Corresponding data packet:
 
@@ -97,7 +99,8 @@ browser.
 
 <br />
 
-![0.48](file:///C:/Users/15303/AppData/Roaming/ProcessOn/data/mind/image/HJCHaWXR9X.png)
+<img width="1741" height="447" alt="image3" src="https://github.com/user-attachments/assets/e096887d-269f-4f1f-a597-f815ef052fcf" />
+
 
 The same value is also returned as `level_name` by `/admin/user/index` and\
 rendered in the user list.
